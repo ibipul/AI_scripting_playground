@@ -12,7 +12,7 @@ Select any text/phrase on a website & right-click to search the topic on reddit.
  - Opens a new tab a presents the search results on reddit
  - Yep, vibe coded.
 
-![voila](img/reddit-senti-search.png")
+![voila](img/reddit-senti-search.png)
 
 #### Install Extension on Chrome: 
  - Download the extension directory

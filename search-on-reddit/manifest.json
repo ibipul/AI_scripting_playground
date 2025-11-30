@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Reddit Sentiment Search",
+  "version": "1.0",
+  "description": "Right-click selected text to search for sentiment on Reddit.",
+  "permissions": ["contextMenus"],
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
